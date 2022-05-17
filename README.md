@@ -1,1 +1,1 @@
-# java-fun-time
+# python-fun-time
